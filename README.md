@@ -1,5 +1,4 @@
 # hello-world
-Noob Repository
 
 HEY PEOPLE!
 
