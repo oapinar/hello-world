@@ -1,4 +1,4 @@
 # hello-world
 This is my first repository.
-## Commit
-Now I will try to commit.
+## Commit 2 Deleting
+Now I am deleting the previous commit.
