@@ -4,3 +4,5 @@ This is my first repository.
 Now I am deleting the previous commit.
 ## Local Development
 1. Open index.html in your browser.
+## Commit Recap
+I am just practising with this commit.
